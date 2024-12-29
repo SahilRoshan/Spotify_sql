@@ -112,6 +112,3 @@ difference_helper_table as
 group by 1)
 select album,(maximum_energy-minimum_energy)as difference from difference_helper_table 
 order by 2 desc;
-
---Find tracks where the energy-to-liveness ratio is greater than 1.2.
---Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
