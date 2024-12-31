@@ -1,7 +1,6 @@
-![Spotify-Logo wine](https://github.com/user-attachments/assets/92287c76-bd5a-4417-8898-eedc3ede621c)
 # Spotify Dataset Analysis
 This repository contains SQL queries to analyze and derive insights from a Spotify dataset. The dataset includes various attributes about tracks, artists, and albums, enabling exploratory data analysis (EDA) and addressing specific business questions.
-
+![Spotify-Logo wine](https://github.com/user-attachments/assets/92287c76-bd5a-4417-8898-eedc3ede621c)
 ## Dataset Structure
 The dataset consists of the following columns:
 - `artist`: Name of the artist.
